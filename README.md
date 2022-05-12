@@ -1,0 +1,1 @@
+Project: **Random Color Picker**, following tasks from Codecademy.
